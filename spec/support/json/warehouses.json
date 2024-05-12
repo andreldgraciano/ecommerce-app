@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "code": "RJ",
+    "city": "Rio de Janeiro",
+    "area": 123435,
+    "created_at": "2024-05-10T12:37:58.439Z",
+    "updated_at": "2024-05-10T12:37:58.439Z",
+    "name": "RIO",
+    "address": "Rua Sebastião Azeredo Campos, 123",
+    "zip": 35300390,
+    "description": "Galpao rio"
+  },
+  {
+    "id": 2,
+    "code": "SPY",
+    "city": "Sao Paulo",
+    "area": 5412934,
+    "created_at": "2024-05-10T12:38:26.964Z",
+    "updated_at": "2024-05-10T12:38:26.964Z",
+    "name": "SAMPA",
+    "address": "Avenida Jardim, 32",
+    "zip": 25655260,
+    "description": "galpao de sao paulo"
+  }
+]

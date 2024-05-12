@@ -1,0 +1,12 @@
+<h1>E-Commerce App</h1>
+
+<% if @warehouses.empty?%>
+  <p>Nenhum galpão encontrado</p>
+<% else %>
+  <% @warehouses.each do |warehouse| %>
+    <h1><%= warehouse["name"] %></h1>
+    <p><%= warehouse["code"] %></p>
+    <p><%= warehouse["city"] %></p>
+  <% end %>
+<% end %>
+
