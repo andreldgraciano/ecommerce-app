@@ -1,15 +1,15 @@
 [
   {
     "id": 1,
-    "code": "RJ",
+    "code": "GRJ",
     "city": "Rio de Janeiro",
     "area": 123435,
     "created_at": "2024-05-10T12:37:58.439Z",
     "updated_at": "2024-05-10T12:37:58.439Z",
-    "name": "RIO",
+    "name": "Rodoviaria RIO",
     "address": "Rua Sebastião Azeredo Campos, 123",
     "zip": 35300390,
-    "description": "Galpao rio"
+    "description": "Galpao na rodoviaria do RJ"
   },
   {
     "id": 2,
@@ -18,7 +18,7 @@
     "area": 5412934,
     "created_at": "2024-05-10T12:38:26.964Z",
     "updated_at": "2024-05-10T12:38:26.964Z",
-    "name": "SAMPA",
+    "name": "Aeroporto Sampa",
     "address": "Avenida Jardim, 32",
     "zip": 25655260,
     "description": "galpao de sao paulo"
